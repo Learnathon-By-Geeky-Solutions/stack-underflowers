@@ -1,5 +1,4 @@
-// Problem 1: https://codeforces.com/problemset/problem/1999/C
-// Solution:
+// https://codeforces.com/problemset/problem/1999/C
 
 using System;
 
