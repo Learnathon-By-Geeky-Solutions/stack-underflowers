@@ -1,6 +1,7 @@
 // https://codeforces.com/problemset/problem/1996/B
 
 using System;
+
 class Program {
     static void test(int tc) {
         // int n = int.Parse(Console.ReadLine());
