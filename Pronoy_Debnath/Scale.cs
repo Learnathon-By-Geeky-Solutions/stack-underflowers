@@ -1,5 +1,4 @@
-// Problem 2: https://codeforces.com/problemset/problem/1996/B
-// Solution:
+// https://codeforces.com/problemset/problem/1996/B
 
 using System;
 class Program {
