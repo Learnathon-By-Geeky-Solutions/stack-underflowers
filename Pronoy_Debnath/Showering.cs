@@ -1,3 +1,6 @@
+// Problem 1: https://codeforces.com/problemset/problem/1999/C
+// Solution:
+
 using System;
 
 class Program {
