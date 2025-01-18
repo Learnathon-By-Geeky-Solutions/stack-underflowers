@@ -1,3 +1,5 @@
+// https://codeforces.com/problemset/problem/1606/A
+
 using System; using System.Collections; using System.Linq.Expressions;
 
 class Program {
